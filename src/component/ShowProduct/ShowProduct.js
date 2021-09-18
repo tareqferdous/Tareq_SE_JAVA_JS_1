@@ -25,8 +25,8 @@ const ShowProduct = () => {
     return (
         <section className="py-5">
             <div className="text-center">
-                <h2 className=" pb-3" style={{color: '#1CC7C1'}}>Our Exclusive Services</h2>
-                <p>Explore our exclusive categories, find photographers you would <br/> love to explore and hire.</p>
+                <h2 className=" pb-3" style={{color: '#1CC7C1'}}>Our Exclusive Products</h2>
+    
             </div>
             <div className="container mt-5">
                 <div className="row">
